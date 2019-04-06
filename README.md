@@ -6,3 +6,11 @@
 - Word Guess Game aka "Hangman"
   - https://github.com/AlexKrumins/Word-Guess-Game
   - https://alexkrumins.github.io/Word-Guess-Game
+- Giftastic API project
+  - https://github.com/AlexKrumins/giftastic-api-project
+  - https://alexkrumins.github.io/giftastic-api-project
+- Basic/Bootstrap/Responsive Profiles
+  - https://github.com/AlexKrumins/Basic-Portfolio
+  - https://github.com/AlexKrumins/Bootstrap-Portfolio
+  - https://github.com/AlexKrumins/Responsive-Portfolio
+  - https://github.com/AlexKrumins/CupidPunch.github.io
