@@ -1,0 +1,162 @@
+/*Begin Local CSS*/
+body{
+    background-image:url(../images/cheap_diagonal_fabric.png);
+}
+
+header {
+    overflow: hidden;
+    background: white;
+    margin-left: auto;
+    border-bottom:2px #999999 solid;
+}
+ul{
+    margin-right: auto;
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    float: right;
+    margin-top:30px;
+}
+
+li{
+    display: inline;
+}
+
+li a{
+    padding: 8px;
+}
+h1{
+    font-family: Georgia, "Times New Roman", Times, serif;
+    
+}
+h4{
+    line-height:0px
+}
+
+a{
+    text-decoration: none;
+    color: #999999
+}
+
+.container{
+    margin:auto;
+    margin-top:20px;
+    padding-bottom:20px;
+    margin-bottom:60px;
+    overflow-x: hidden;
+    overflow-y: visible;
+    width: 960px;
+    clear:both;
+    border-style: solid;
+    border-width: 1px;
+    border-top-color: grey;
+    background-color: white;
+}
+
+.article-header{
+    color:#4aaaa5;
+    clear:both;
+    padding-bottom:20px;
+    margin:20px 20px 15px 20px;
+    border-bottom: #999999 solid 2px;
+}
+form{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+form input{
+    width:100%;
+    margin-bottom: 10px;
+}
+.message{
+    padding:0px 0px 200px 0px;
+}
+.button{
+    color:white;
+    background-color:#4aaaa5;
+    width: 80px;
+    padding: 5px 10px;
+    border: none;
+
+}
+#name-banner{
+    color:white;
+    background-color: #4aaaa5;
+    padding:20px;
+    margin:0px;
+    float: left;
+}
+
+#menu-bar{
+    width:960px;
+    margin:auto;
+    position:center;
+}
+
+#bio-image{
+    float: left;
+    width:200px;
+    overflow:hidden;
+}
+
+#main-bio{
+    float: left;
+    margin: 0px 20px 0px 20px;
+
+}
+
+.row {
+    margin:10px 0px;
+    width: 960px;
+    display:flex;
+  }
+  
+  .column {
+    width: 320px;
+  }
+  
+  .column img {
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    margin: 20px;
+    vertical-align: middle;
+  }
+  
+.portfolio-link{
+    position:relative;
+    display:block;
+}
+.text-block{
+    width:300px;
+    height:50px;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    color:white;
+    background-color:#4aaaa5;
+    border: none; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:18px;
+    font-style: 200;
+}
+
+footer{
+    color:lightgrey;
+    height:40px;
+    background: #666666;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    border-style:solid;
+    border-width: 5px 0px 0px 0px;
+    border-color:#4aaaa5;
+}
+
+#copyright{
+    text-align: center;
+    line-height:55px;
+    
+}
